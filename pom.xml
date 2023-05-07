@@ -21,7 +21,7 @@
         <module>Lesson02-Spring-Basics</module>
         <module>Lesson03-Spring-MVC</module>
 
-<!--        <module>Lesson07-Spring-Data</module>-->
+        <module>Lesson07-Spring-Data</module>
 
 <!--        <module>Lesson12-SpringWeb-FinalBuild</module>-->
     </modules>
