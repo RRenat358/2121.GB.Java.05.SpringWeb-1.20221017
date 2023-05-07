@@ -9,17 +9,13 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-
     <packaging>war</packaging>
 
     <artifactId>Lesson12-Spring-Security</artifactId>
 
-
-
 <!--    <properties>-->
 <!--        <java.version>17</java.version>-->
 <!--    </properties>-->
-
 
     <dependencies>
         <dependency>
