@@ -23,7 +23,7 @@
 
         <module>Lesson07-Spring-Data</module>
 
-<!--        <module>Lesson12-SpringWeb-FinalBuild</module>-->
+        <module>Lesson12-Spring-Security</module>
     </modules>
 
 
